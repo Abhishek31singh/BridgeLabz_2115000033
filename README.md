@@ -229,3 +229,17 @@
   - Student.java  
   - Vehicle.java  
 - Strengthened understanding of Data Hiding using Access Specifiers.
+### 06-02-25(Created Branch Feature-06/02/25 )
+- Understand the concepts of class and Objects Deeply(its creation, Memory allocation etc.)
+    - Solved problem on the topic:
+      - LibrarySystem.java
+      - BankSystem.java
+      - CompanySystem.java
+      - SchoolSystem.java
+      - UniversitySystem.java
+      - HospitalSystem.java
+      - ECommercePlatform.java
+      - UniversityManagementSystem.java
+- Understand and Draw the Object Diagram, Class Diagram and Sequence Diagram.
+    - upload a Pdf consist of Object,class and Seqence Diagram.
+       

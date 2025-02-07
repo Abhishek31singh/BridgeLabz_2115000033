@@ -242,4 +242,21 @@
       - UniversityManagementSystem.java
 - Understand and Draw the Object Diagram, Class Diagram and Sequence Diagram.
     - upload a Pdf consist of Object,class and Seqence Diagram.
-       
+### 07-02-25(Created Branch Feature-7/02/25)
+ - Understand the concept of Inheritance in detail(Types,Key features etc).
+     - Solved Problem on the topic:
+        - AnimalHierarchy.java
+        - EmployeeManagementSystem.java
+        - TransportSystem.java
+        - LibraryManagement.java
+        - SmartHome.java
+        - OrderManagement.java
+        - CourseHierarchy.java
+        - BankingSystem.java
+        - SchoolSystem.java
+        - RestaurantSystem.java
+        - VehicleManagement.java
+- Goal: Explore more about the topic and deeply understand Each and Every topic cover under Inheritance.
+   
+   
+

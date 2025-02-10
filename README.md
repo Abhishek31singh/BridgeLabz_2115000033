@@ -257,6 +257,18 @@
         - RestaurantSystem.java
         - VehicleManagement.java
 - Goal: Explore more about the topic and deeply understand Each and Every topic cover under Inheritance.
+### 10-02-25(Created Branch Feature-10/02/25)
+  - Understand the concept and Implementation of Encapsulation in detail(its salient Features etch).
+    - Solved Problem on the topic:
+        - Employee Management System
+        -  E-Commerce Platform
+        -  Vehicle Rental System
+        -  Banking System
+        -  Library Management System
+        -  Online Food Delivery System
+        -  Hospital Patient Management
+        -  Ride-Hailing Application
+ - Learning: Explore more the topic how it works with Method Overriding using getter and setter concept.
    
    
 

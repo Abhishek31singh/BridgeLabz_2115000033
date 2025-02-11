@@ -256,7 +256,7 @@
         - SchoolSystem.java
         - RestaurantSystem.java
         - VehicleManagement.java
-- Goal: Explore more about the topic and deeply understand Each and Every topic cover under Inheritance.
+- **Goal** : Explore more about the topic and deeply understand Each and Every topic cover under Inheritance.
 ### 10-02-25(Created Branch Feature-10/02/25)
   - Understand the concept and Implementation of Encapsulation in detail(its salient Features etch).
     - Solved Problem on the topic:
@@ -268,7 +268,19 @@
         -  Online Food Delivery System
         -  Hospital Patient Management
         -  Ride-Hailing Application
- - Learning: Explore more the topic how it works with Method Overriding using getter and setter concept.
-   
+ - **Learning** : Explore more the topic how it works with Method Overriding using getter and setter concept.
+### 11-02-25(Created Branch Feature-11/02/25)
+  - Understand the concepts of LinkedList and its Implementation in detail(like Singly,Doubly,Circular[their concept and implemetation]).
+     - Solved program on the topic:
+          1. Singly Linked List: Student Record Management.
+          2. Doubly Linked List: Movie Management System.
+          3. Circular Linked List: Task Scheduler
+          4. Singly Linked List: Inventory Management System
+          5. Doubly Linked List: Library Management System
+          6. Circular Linked List: Round Robin Scheduling Algorithm
+          7. Singly Linked List: Social Media Friend Connections
+          8. Doubly Linked List: Undo/Redo Functionality for Text Editor
+          9. Circular Linked List: Online Ticket Reservation System
+  - **Learning** : Explore more about the types of linkedList with their traversals,implementation,Sorting,Searching,Deletion and Insertion.
    
 

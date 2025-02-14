@@ -282,5 +282,33 @@
           8. Doubly Linked List: Undo/Redo Functionality for Text Editor
           9. Circular Linked List: Online Ticket Reservation System
   - **Learning** : Explore more about the types of linkedList with their traversals,implementation,Sorting,Searching,Deletion and Insertion.
+### 13-02-25 (Created Branch Feature-13/02/25)
+- Understand the concept of Stack (Implementation and Theory), Queue (Implementation and Theory), and Hashmap (Hashing and Theory).
+  - Solved Programs on the following topics:
+    1. Implement a Queue Using Stacks.
+    2. Sort a Stack Using Recursion.
+    3. Stock Span Problem.
+    4. Sliding Window Maximum.
+    5. Circular Tour Problem.
+    6. Find All Subarrays with Zero Sum.
+    7. Check for a Pair with Given Sum in an Array.
+    8. Longest Consecutive Sequence.
+    9. Implement a Custom Hash Map.
+    10. Two Sum Problem.
+  - **Learning**: - Explored more about Stack, Queue, and Hashmap (including their internal workings, etc.).
+### 14-02-25 (Created Branch Feature-14/02/25)
+ - Understand the concept of Sorting and their Types(Bubble,Insertion,Merge,Counting,Radix,Bucket,Quick,Heap etc).
+    - Solved program on the same:
+      1. Bubble Sort - Sort Student Marks.
+      2. Insertion Sort - Sort Employee IDs.
+      3. Merge Sort - Sort an Array of Book Prices
+      4. Quick Sort - Sort Product Prices
+      5. Selection Sort - Sort Exam Scores.
+      6. Heap Sort - Sort Job Applicants by Salary     
+      7. Counting Sort - Sort Student Ages.
+- **Learning**: Explore more about Sorting like their Internal Working and sorting really works.
+
+ 
+
    
 

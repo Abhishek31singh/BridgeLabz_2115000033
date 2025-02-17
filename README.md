@@ -307,6 +307,57 @@
       6. Heap Sort - Sort Job Applicants by Salary     
       7. Counting Sort - Sort Student Ages.
 - **Learning**: Explore more about Sorting like their Internal Working and sorting really works.
+### 15-02-25 (Created Branch Feature-15/02/25)
+ - Understand the concept of StringBuilder,StringBuffer,FileReader,InputStreamReader,Linear Search,Binary Search.
+    - Solved Program on the same like:
+       - StringBuilder Problem:
+            1. Reverse a String Using StringBuilder
+            2. Remove Duplicates from a String Using StringBuilder.
+       - StringBuffer Problem:
+            1. Concatenate Strings Efficiently Using StringBuffer.
+            2. Compare StringBuffer with StringBuilder for String Concatenation.
+        - FileReader Problem:
+            1. Read a File Line by Line Using FileReader.
+            2. Count the Occurrence of a Word in a File Using FileReader.
+        - InputStreamReader:
+            1. Convert Byte Stream to Character Stream Using InputStreamReader.
+            2.  Read User Input and Write to File Using InputStreamReader.
+        - Challenge Problem:
+            1.  Compare StringBuilder, StringBuffer, FileReader, and InputStreamReader.
+        - Linear Search Problem:
+            1. Search for the First Negative Number.
+            2. Search for a Specific Word in a List of Sentences.
+        - Binary Search Problem:
+            1. Find the Rotation Point in a Rotated Sorted Array.
+            2. Find the Peak Element in an Array.
+            3. Search for a Target Value in a 2D Sorted Matrix.
+            4. Find the First and Last Occurrence of an Element in a Sorted Array.
+         - Chalenege Problem (LS + BS):
+             1.  Write a program that uses Linear Search to find the first missing positive integer in the list and Binary Search to find the index of a given target number.
+  - **Learning**: Explore more about all the topic and their internal working.
+### 17-02-25 (Created Branch Feature-17/02/25)
+  - Understand the topics like . What is Runtime Analysis?,Understanding Big-O Notation,Time Complexity Analysis,Space Complexity Analysis,Best, Worst and Average Case Complexities,Practical Guidelines for Optimizing Java Code.
+      - Solved Problem Like:
+         1. Search a Target in a Large Datase.
+         2. Sorting Large Data Efficiently.
+         3. String Concatenation Performance.
+         4. Large File Reading Efficiency.
+         5. Recursive vs Iterative Fibonacci Computation.
+         6. Comparing Different Data Structures for Searching.
+  - **Learning**: Explore more about the topic in detail and their internal working. 
+         
+ 
+                
+                
+            
+
+
+       
+
+
+
+ 
+
 
  
 

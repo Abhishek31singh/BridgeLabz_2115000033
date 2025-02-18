@@ -344,7 +344,21 @@
          4. Large File Reading Efficiency.
          5. Recursive vs Iterative Fibonacci Computation.
          6. Comparing Different Data Structures for Searching.
-  - **Learning**: Explore more about the topic in detail and their internal working. 
+  - **Learning**: Explore more about the topic in detail and their internal working.
+### 18-02-25 (Created Branch Feature-18/02/25)
+   - Understand the topics of Generics: Introduction to Generics, Type Parameters,Generic Classes,Generic Methods,Bounded Type Parameters,Wildcards.
+       - Solved Problem on the topic like:
+          1. Smart Warehouse Management System.
+          2. Dynamic Online Marketplace.
+          3.  Multi-Level University Course Management System.
+          4.  Personalized Meal Plan Generator.
+          5.  AI-Driven Resume Screening System.
+- **Learning**: Explore more about the subtopics like bounded Genercis,Wildcard Generics etc.
+
+
+
+
+
          
  
                 
